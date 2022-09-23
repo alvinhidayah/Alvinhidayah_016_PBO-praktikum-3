@@ -1,4 +1,7 @@
-<!--- Nur Haslinda_21091397035 --->
+<!--- ALVIN NOOR HIDAYAH
+      21091397016
+      B
+ --->
 
 <?php 
   require_once 'Nomor 2a.php';
